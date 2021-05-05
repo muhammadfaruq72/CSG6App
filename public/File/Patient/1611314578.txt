@@ -1,0 +1,1509 @@
+<div class="container">
+    <section class="container pt-5">
+        <div class="section-heading mb-0">
+            <h1 class="h2 pb-2 mb-2">Find your Coliving Home</h1>
+        </div>
+        <h2 class="font-weight-bold text-secondary mb-4 h4">Select your destination</h2>
+        <div class="col">
+            <div class="row">
+                <h3>Africa</h3>
+            </div>
+            <div class="row mb-4">
+                <div class="col-md-2 d-none d-md-block"></div>
+                <div class="col-md-10">
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/egypt" title="Coliving in Egypt"><img src="https://coliving2.imgix.net/icons/flags/egypt.svg" height="25" width="25" alt="Flag Coliving Egypt" class="mr-1 mb-1"> Egypt
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/cairo" title="Coliving in Cairo">Cairo</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/dahab" title="Coliving in Dahab">Dahab</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/mauritius" title="Coliving in Mauritius"><img src="https://coliving2.imgix.net/icons/flags/mauritius.svg" height="25" width="25" alt="Flag Coliving Mauritius" class="mr-1 mb-1"> Mauritius
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/morocco" title="Coliving in Morocco"><img src="https://coliving2.imgix.net/icons/flags/morocco.svg" height="25" width="25" alt="Flag Coliving Morocco" class="mr-1 mb-1"> Morocco
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/agadir" title="Coliving in Agadir">Agadir</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/casablanca" title="Coliving in Casablanca">Casablanca</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/marrakesh" title="Coliving in Marrakesh">Marrakesh</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/rabat" title="Coliving in Rabat">Rabat</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/taghazout" title="Coliving in Taghazout">Taghazout</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/nigeria" title="Coliving in Nigeria"><img src="https://coliving2.imgix.net/icons/flags/nigeria.svg" height="25" width="25" alt="Flag Coliving Nigeria" class="mr-1 mb-1"> Nigeria
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/seychelles" title="Coliving in Seychelles"><img src="https://coliving2.imgix.net/icons/flags/seychelles.svg" height="25" width="25" alt="Flag Coliving Seychelles" class="mr-1 mb-1"> Seychelles
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/grand-anse" title="Coliving in Grand Anse">Grand Anse</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/south-africa" title="Coliving in South Africa"><img src="https://coliving2.imgix.net/icons/flags/south-africa.svg" height="25" width="25" alt="Flag Coliving South Africa" class="mr-1 mb-1"> South Africa
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/cape-town" title="Coliving in Cape Town">Cape Town</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/durban" title="Coliving in Durban">Durban</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/johannesburg" title="Coliving in Johannesburg">Johannesburg</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <h3>Asia</h3>
+            </div>
+            <div class="row mb-4">
+                <div class="col-md-2 d-none d-md-block"></div>
+                <div class="col-md-10">
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/armenia" title="Coliving in Armenia"><img src="https://coliving2.imgix.net/icons/flags/armenia.svg" height="25" width="25" alt="Flag Coliving Armenia" class="mr-1 mb-1"> Armenia
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/yerevan" title="Coliving in Yerevan">Yerevan</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/china" title="Coliving in China"><img src="https://coliving2.imgix.net/icons/flags/china.svg" height="25" width="25" alt="Flag Coliving China" class="mr-1 mb-1"> China
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/beijing" title="Coliving in Beijing">Beijing</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/chengdu" title="Coliving in Chengdu">Chengdu</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/chongqing" title="Coliving in Chongqing">Chongqing</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/dongguan" title="Coliving in Dongguan">Dongguan</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/guangzhou" title="Coliving in Guangzhou">Guangzhou</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/shanghai" title="Coliving in Shanghai">Shanghai</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/shenyang" title="Coliving in Shenyang">Shenyang</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/shenzhen" title="Coliving in Shenzhen">Shenzhen</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/tianjin" title="Coliving in Tianjin">Tianjin</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/wuhan" title="Coliving in Wuhan">Wuhan</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/hong-kong" title="Coliving in Hong Kong"><img src="https://coliving2.imgix.net/icons/flags/hong-kong.svg" height="25" width="25" alt="Flag Coliving Hong Kong" class="mr-1 mb-1"> Hong Kong
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/hong-kong-island" title="Coliving in Hong Kong Island">Hong Kong Island</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/kowloon" title="Coliving in Kowloon">Kowloon</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/new-territories" title="Coliving in New Territories">New Territories</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/india" title="Coliving in India"><img src="https://coliving2.imgix.net/icons/flags/india.svg" height="25" width="25" alt="Flag Coliving India" class="mr-1 mb-1"> India
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/ahmedabad" title="Coliving in Ahmedabad">Ahmedabad</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/bangalore" title="Coliving in Bangalore">Bangalore</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/chennai" title="Coliving in Chennai">Chennai</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/dharamshala" title="Coliving in Dharamshala">Dharamshala</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/goa" title="Coliving in Goa">Goa</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/gurgaon" title="Coliving in Gurgaon">Gurgaon</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/gurugram" title="Coliving in Gurugram">Gurugram</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/hyderabad" title="Coliving in Hyderabad">Hyderabad</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/indore" title="Coliving in Indore">Indore</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/jaipur" title="Coliving in Jaipur">Jaipur</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/kolkata" title="Coliving in Kolkata">Kolkata</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/mumbai" title="Coliving in Mumbai">Mumbai</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/new-delhi" title="Coliving in New Delhi">New Delhi</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/pune" title="Coliving in Pune">Pune</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/indonesia" title="Coliving in Indonesia"><img src="https://coliving2.imgix.net/icons/flags/indonesia.svg" height="25" width="25" alt="Flag Coliving Indonesia" class="mr-1 mb-1"> Indonesia
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/badung-regency" title="Coliving in Badung Regency">Badung Regency</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/bali" title="Coliving in Bali">Bali</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/bandung" title="Coliving in Bandung">Bandung</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/central-jakarta" title="Coliving in Central Jakarta">Central Jakarta</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/jakarta" title="Coliving in Jakarta">Jakarta</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/maluku" title="Coliving in Maluku">Maluku</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/south-jakarta" title="Coliving in South Jakarta">South Jakarta</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/surabaya" title="Coliving in Surabaya">Surabaya</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/israel" title="Coliving in Israel"><img src="https://coliving2.imgix.net/icons/flags/israel.svg" height="25" width="25" alt="Flag Coliving Israel" class="mr-1 mb-1"> Israel
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/jerusalem" title="Coliving in Jerusalem">Jerusalem</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/tel-aviv-yafo-israel" title="Coliving in Tel Aviv">Tel Aviv</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/japan" title="Coliving in Japan"><img src="https://coliving2.imgix.net/icons/flags/japan.svg" height="25" width="25" alt="Flag Coliving Japan" class="mr-1 mb-1"> Japan
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/fukuoka" title="Coliving in Fukuoka">Fukuoka</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/hikone" title="Coliving in Hikone">Hikone</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/kawasaki" title="Coliving in Kawasaki">Kawasaki</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/kobe" title="Coliving in Kobe">Kobe</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/konan" title="Coliving in Konan">Konan</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/kyoto" title="Coliving in Kyoto">Kyoto</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/mima" title="Coliving in Mima">Mima</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/nagasaki" title="Coliving in Nagasaki">Nagasaki</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/nagoya" title="Coliving in Nagoya">Nagoya</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/osaka" title="Coliving in Osaka">Osaka</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/saitama" title="Coliving in Saitama">Saitama</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/sapporo" title="Coliving in Sapporo">Sapporo</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/tokyo" title="Coliving in Tokyo">Tokyo</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/yokohama" title="Coliving in Yokohama">Yokohama</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/laos" title="Coliving in Laos"><img src="https://coliving2.imgix.net/icons/flags/laos.svg" height="25" width="25" alt="Flag Coliving Laos" class="mr-1 mb-1"> Laos
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/macau" title="Coliving in Macau"><img src="https://coliving2.imgix.net/icons/flags/macau.svg" height="25" width="25" alt="Flag Coliving Macau" class="mr-1 mb-1"> Macau
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/malaysia" title="Coliving in Malaysia"><img src="https://coliving2.imgix.net/icons/flags/malaysia.svg" height="25" width="25" alt="Flag Coliving Malaysia" class="mr-1 mb-1"> Malaysia
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/batu-ferringhi" title="Coliving in Batu Ferringhi">Batu Ferringhi</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/george-town" title="Coliving in George Town">George Town</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/kuala-lumpur" title="Coliving in Kuala Lumpur">Kuala Lumpur</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/langkawi" title="Coliving in Langkawi">Langkawi</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/penang" title="Coliving in Penang">Penang</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/subang-jaya" title="Coliving in Subang Jaya">Subang Jaya</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/maldives" title="Coliving in Maldives"><img src="https://coliving2.imgix.net/icons/flags/maldives.svg" height="25" width="25" alt="Flag Coliving Maldives" class="mr-1 mb-1"> Maldives
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/mongolia" title="Coliving in Mongolia"><img src="https://coliving2.imgix.net/icons/flags/mongolia.svg" height="25" width="25" alt="Flag Coliving Mongolia" class="mr-1 mb-1"> Mongolia
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/ulaanbaatar" title="Coliving in Ulaanbaatar">Ulaanbaatar</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/myanmar" title="Coliving in Myanmar"><img src="https://coliving2.imgix.net/icons/flags/myanmar.svg" height="25" width="25" alt="Flag Coliving Myanmar" class="mr-1 mb-1"> Myanmar
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/yangon" title="Coliving in Yangon">Yangon</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/nepal" title="Coliving in Nepal"><img src="https://coliving2.imgix.net/icons/flags/nepal.svg" height="25" width="25" alt="Flag Coliving Nepal" class="mr-1 mb-1"> Nepal
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/north-korea" title="Coliving in North Korea"><img src="https://coliving2.imgix.net/icons/flags/north-korea.svg" height="25" width="25" alt="Flag Coliving North Korea" class="mr-1 mb-1"> North Korea
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/pyongyang" title="Coliving in Pyongyang">Pyongyang</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/pakistan" title="Coliving in Pakistan"><img src="https://coliving2.imgix.net/icons/flags/pakistan.svg" height="25" width="25" alt="Flag Coliving Pakistan" class="mr-1 mb-1"> Pakistan
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/islamabad" title="Coliving in Islamabad">Islamabad</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/karachi" title="Coliving in Karachi">Karachi</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/lahore" title="Coliving in Lahore">Lahore</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/rawalpindi" title="Coliving in Rawalpindi">Rawalpindi</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/palestine" title="Coliving in Palestine"><img src="https://coliving2.imgix.net/icons/flags/palestine.svg" height="25" width="25" alt="Flag Coliving Palestine" class="mr-1 mb-1"> Palestine
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/philippines" title="Coliving in Philippines"><img src="https://coliving2.imgix.net/icons/flags/philippines.svg" height="25" width="25" alt="Flag Coliving Philippines" class="mr-1 mb-1"> Philippines
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/cebu-city" title="Coliving in Cebu City">Cebu City</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/davao-city" title="Coliving in Davao City">Davao city</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/makati" title="Coliving in Makati">Makati</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/manila" title="Coliving in Manila">Manila</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/qatar" title="Coliving in Qatar"><img src="https://coliving2.imgix.net/icons/flags/qatar.svg" height="25" width="25" alt="Flag Coliving Qatar" class="mr-1 mb-1"> Qatar
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/doha" title="Coliving in Doha">Doha</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/saudi-arabia" title="Coliving in Saudi Arabia"><img src="https://coliving2.imgix.net/icons/flags/saudi-arabia.svg" height="25" width="25" alt="Flag Coliving Saudi Arabia" class="mr-1 mb-1"> Saudi Arabia
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/jeddah" title="Coliving in Jeddah">Jeddah</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/mecca" title="Coliving in Mecca">Mecca</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/medina" title="Coliving in Medina">Medina</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/riyadh" title="Coliving in Riyadh">Riyadh</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/singapore" title="Coliving in Singapore"><img src="https://coliving2.imgix.net/icons/flags/singapore.svg" height="25" width="25" alt="Flag Coliving Singapore" class="mr-1 mb-1"> Singapore
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/singapore-sg" title="Coliving in Singapore">Singapore</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/south-korea" title="Coliving in South Korea"><img src="https://coliving2.imgix.net/icons/flags/south-korea.svg" height="25" width="25" alt="Flag Coliving South Korea" class="mr-1 mb-1"> South Korea
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/busan" title="Coliving in Busan">Busan</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/seoul" title="Coliving in Seoul">Seoul</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/sri-lanka" title="Coliving in Sri Lanka"><img src="https://coliving2.imgix.net/icons/flags/sri-lanka.svg" height="25" width="25" alt="Flag Coliving Sri Lanka" class="mr-1 mb-1"> Sri Lanka
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/colombo" title="Coliving in Colombo">Colombo</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/kandakuliya" title="Coliving in Kandakuliya">Kandakuliya</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/taiwan" title="Coliving in Taiwan"><img src="https://coliving2.imgix.net/icons/flags/taiwan.svg" height="25" width="25" alt="Flag Coliving Taiwan" class="mr-1 mb-1"> Taiwan
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/kaohsiung-city" title="Coliving in Kaohsiung City">Kaohsiung City</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/taichung-city" title="Coliving in Taichung City">Taichung City</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/tainan-city" title="Coliving in Tainan City">Tainan City</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/taipei" title="Coliving in Taipei">Taipei</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/taiwan-twsfd" title="Coliving in Taiwan-Delete">Taiwan-delete</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/thailand" title="Coliving in Thailand"><img src="https://coliving2.imgix.net/icons/flags/thailand.svg" height="25" width="25" alt="Flag Coliving Thailand" class="mr-1 mb-1"> Thailand
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/ban-tai" title="Coliving in Ban Tai">Ban Tai</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/bangkok" title="Coliving in Bangkok">Bangkok</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/chiang-mai" title="Coliving in Chiang Mai">Chiang Mai</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/ko-lanta" title="Coliving in Ko Lanta">Ko Lanta</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/ko-pha-ngan" title="Coliving in Ko Pha-Ngan">Ko Pha-ngan</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/ko-samui" title="Coliving in Ko Samui">Ko Samui</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/ko-tao" title="Coliving in Ko Tao">Ko Tao</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/krabi" title="Coliving in Krabi">Krabi</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/phuket" title="Coliving in Phuket">Phuket</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/surat-thani" title="Coliving in Surat Thani">Surat Thani</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/turkey" title="Coliving in Turkey"><img src="https://coliving2.imgix.net/icons/flags/turkey.svg" height="25" width="25" alt="Flag Coliving Turkey" class="mr-1 mb-1"> Turkey
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/ankara" title="Coliving in Ankara">Ankara</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/antalya" title="Coliving in Antalya">Antalya</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/istanbul" title="Coliving in Istanbul">Istanbul</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/izmir" title="Coliving in Izmir">Izmir</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/united-arab-emirates" title="Coliving in United Arab Emirates"><img src="https://coliving2.imgix.net/icons/flags/united-arab-emirates.svg" height="25" width="25" alt="Flag Coliving United Arab Emirates" class="mr-1 mb-1"> United Arab Emirates
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/abu-dhabi" title="Coliving in Abu Dhabi">Abu Dhabi</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/dubai" title="Coliving in Dubai">Dubai</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/vietnam" title="Coliving in Vietnam"><img src="https://coliving2.imgix.net/icons/flags/vietnam.svg" height="25" width="25" alt="Flag Coliving Vietnam" class="mr-1 mb-1"> Vietnam
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/da-nang" title="Coliving in Da Nang">Da Nang</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/hanoi" title="Coliving in Hanoi">Hanoi</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/ho-chi-minh-city" title="Coliving in Ho Chi Minh City">Ho Chi Minh City</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/hoi-an" title="Coliving in Hoi An">Hoi An</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/nha-trang" title="Coliving in Nha Trang">Nha Trang</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <h3>Europe</h3>
+            </div>
+            <div class="row mb-4">
+                <div class="col-md-2 d-none d-md-block"></div>
+                <div class="col-md-10">
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/austria" title="Coliving in Austria"><img src="https://coliving2.imgix.net/icons/flags/austria.svg" height="25" width="25" alt="Flag Coliving Austria" class="mr-1 mb-1"> Austria
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/graz" title="Coliving in Graz">Graz</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/linz" title="Coliving in Linz">Linz</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/vienna" title="Coliving in Vienna">Vienna</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/belgium" title="Coliving in Belgium"><img src="https://coliving2.imgix.net/icons/flags/belgium.svg" height="25" width="25" alt="Flag Coliving Belgium" class="mr-1 mb-1"> Belgium
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/anderlecht" title="Coliving in Anderlecht">Anderlecht</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/antwerp" title="Coliving in Antwerp">Antwerp</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/bruges" title="Coliving in Bruges">Bruges</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/brussels" title="Coliving in Brussels">Brussels</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/charleroi" title="Coliving in Charleroi">Charleroi</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/ghent" title="Coliving in Ghent">Ghent</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/ixelles" title="Coliving in Ixelles">Ixelles</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/leuven" title="Coliving in Leuven">Leuven</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/liege" title="Coliving in Liege">Liege</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/namur" title="Coliving in Namur">Namur</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/saint-gilles" title="Coliving in Saint-Gilles">Saint-Gilles</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/saint-josse-ten-noode" title="Coliving in Saint-Josse-Ten-Noode">Saint-Josse-ten-Noode</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/schaerbeek" title="Coliving in Schaerbeek">Schaerbeek</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/bulgaria" title="Coliving in Bulgaria"><img src="https://coliving2.imgix.net/icons/flags/bulgaria.svg" height="25" width="25" alt="Flag Coliving Bulgaria" class="mr-1 mb-1"> Bulgaria
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/bansko" title="Coliving in Bansko">Bansko</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/burgas" title="Coliving in Burgas">Burgas</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/plovdiv" title="Coliving in Plovdiv">Plovdiv</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/ruse" title="Coliving in Ruse">Ruse</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/sofia" title="Coliving in Sofia">Sofia</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/varna" title="Coliving in Varna">Varna</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/croatia" title="Coliving in Croatia"><img src="https://coliving2.imgix.net/icons/flags/croatia.svg" height="25" width="25" alt="Flag Coliving Croatia" class="mr-1 mb-1"> Croatia
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/dubrovnik" title="Coliving in Dubrovnik">Dubrovnik</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/rijeka" title="Coliving in Rijeka">Rijeka</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/split" title="Coliving in Split">Split</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/zagreb" title="Coliving in Zagreb">Zagreb</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/cyprus" title="Coliving in Cyprus"><img src="https://coliving2.imgix.net/icons/flags/cyprus.svg" height="25" width="25" alt="Flag Coliving Cyprus" class="mr-1 mb-1"> Cyprus
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/czech-republic" title="Coliving in Czech Republic"><img src="https://coliving2.imgix.net/icons/flags/czech-republic.svg" height="25" width="25" alt="Flag Coliving Czech Republic" class="mr-1 mb-1"> Czech Republic
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/prague" title="Coliving in Prague">Prague</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/denmark" title="Coliving in Denmark"><img src="https://coliving2.imgix.net/icons/flags/denmark.svg" height="25" width="25" alt="Flag Coliving Denmark" class="mr-1 mb-1"> Denmark
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/copenhagen" title="Coliving in Copenhagen">Copenhagen</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/estonia" title="Coliving in Estonia"><img src="https://coliving2.imgix.net/icons/flags/estonia.svg" height="25" width="25" alt="Flag Coliving Estonia" class="mr-1 mb-1"> Estonia
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/tallinn" title="Coliving in Tallinn">Tallinn</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/finland" title="Coliving in Finland"><img src="https://coliving2.imgix.net/icons/flags/finland.svg" height="25" width="25" alt="Flag Coliving Finland" class="mr-1 mb-1"> Finland
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/helsinki" title="Coliving in Helsinki">Helsinki</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/france" title="Coliving in France"><img src="https://coliving2.imgix.net/icons/flags/france.svg" height="25" width="25" alt="Flag Coliving France" class="mr-1 mb-1"> France
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/aix-en-provence" title="Coliving in Aix-En-Provence">Aix-en-Provence</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/arles" title="Coliving in Arles">Arles</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/bayonne" title="Coliving in Bayonne">Bayonne</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/bidart" title="Coliving in Bidart">Bidart</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/blet" title="Coliving in Blet">Blet</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/bordeaux" title="Coliving in Bordeaux">Bordeaux</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/boulogne-billancourt" title="Coliving in Boulogne-Billancourt">Boulogne-Billancourt</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/briancon" title="Coliving in Briançon">Briançon</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/cannes" title="Coliving in Cannes">Cannes</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/clichy" title="Coliving in Clichy">Clichy</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/courbevoie" title="Coliving in Courbevoie">Courbevoie</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/grenoble" title="Coliving in Grenoble">Grenoble</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/ivry-sur-seine" title="Coliving in Ivry-Sur-Seine">Ivry-sur-Seine</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/le-perreux-sur-marne" title="Coliving in Le Perreux-Sur-Marne">Le Perreux-sur-Marne</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/lille" title="Coliving in Lille">Lille</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/lyon" title="Coliving in Lyon">Lyon</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/marseille" title="Coliving in Marseille">Marseille</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/montpellier" title="Coliving in Montpellier">Montpellier</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/nanterre" title="Coliving in Nanterre">Nanterre</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/nantes" title="Coliving in Nantes">Nantes</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/nice" title="Coliving in Nice">Nice</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/paris" title="Coliving in Paris">Paris</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/rueil-malmaison" title="Coliving in Rueil-Malmaison">Rueil-Malmaison</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/saint-victor-de-buthon" title="Coliving in Saint-Victor-De-Buthon">Saint-Victor-de-Buthon</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/strasbourg" title="Coliving in Strasbourg">Strasbourg</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/toulouse" title="Coliving in Toulouse">Toulouse</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/germany" title="Coliving in Germany"><img src="https://coliving2.imgix.net/icons/flags/germany.svg" height="25" width="25" alt="Flag Coliving Germany" class="mr-1 mb-1"> Germany
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/berlin" title="Coliving in Berlin">Berlin</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/bremen" title="Coliving in Bremen">Bremen</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/cologne" title="Coliving in Cologne">Cologne</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/dortmund" title="Coliving in Dortmund">Dortmund</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/dusseldorf" title="Coliving in Dusseldorf">Dusseldorf</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/essen" title="Coliving in Essen">Essen</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/frankfurt" title="Coliving in Frankfurt">Frankfurt</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/hamburg" title="Coliving in Hamburg">Hamburg</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/karlsruhe-de" title="Coliving in Karlsruhe">Karlsruhe</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/munich" title="Coliving in Munich">Munich</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/stuttgart" title="Coliving in Stuttgart">Stuttgart</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/greece" title="Coliving in Greece"><img src="https://coliving2.imgix.net/icons/flags/greece.svg" height="25" width="25" alt="Flag Coliving Greece" class="mr-1 mb-1"> Greece
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/athens" title="Coliving in Athens">Athens</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/lesvos" title="Coliving in Lesvos">Lesvos</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/hungary" title="Coliving in Hungary"><img src="https://coliving2.imgix.net/icons/flags/hungary.svg" height="25" width="25" alt="Flag Coliving Hungary" class="mr-1 mb-1"> Hungary
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/budapest" title="Coliving in Budapest">Budapest</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/iceland" title="Coliving in Iceland"><img src="https://coliving2.imgix.net/icons/flags/iceland.svg" height="25" width="25" alt="Flag Coliving Iceland" class="mr-1 mb-1"> Iceland
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/reykjavik" title="Coliving in Reykjavík">Reykjavík</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/ireland" title="Coliving in Ireland"><img src="https://coliving2.imgix.net/icons/flags/ireland.svg" height="25" width="25" alt="Flag Coliving Ireland" class="mr-1 mb-1"> Ireland
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/county-dublin" title="Coliving in County Dublin">County Dublin</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/dublin" title="Coliving in Dublin">Dublin</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/italy" title="Coliving in Italy"><img src="https://coliving2.imgix.net/icons/flags/italy.svg" height="25" width="25" alt="Flag Coliving Italy" class="mr-1 mb-1"> Italy
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/bologna" title="Coliving in Bologna">Bologna</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/cagliari" title="Coliving in Cagliari">Cagliari</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/calabria" title="Coliving in Calabria">Calabria</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/catania" title="Coliving in Catania">Catania</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/florence" title="Coliving in Florence">Florence</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/genoa" title="Coliving in Genoa">Genoa</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/laconi" title="Coliving in Laconi">Laconi</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/matera" title="Coliving in Matera">Matera</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/milan" title="Coliving in Milan">Milan</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/it-naples" title="Coliving in Naples">Naples</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/palermo" title="Coliving in Palermo">Palermo</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/rome" title="Coliving in Rome">Rome</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/turin" title="Coliving in Turin">Turin</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/venice" title="Coliving in Venice">Venice</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/lithuania" title="Coliving in Lithuania"><img src="https://coliving2.imgix.net/icons/flags/lithuania.svg" height="25" width="25" alt="Flag Coliving Lithuania" class="mr-1 mb-1"> Lithuania
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/klaipeda" title="Coliving in Klaipėda">Klaipėda</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/vilnius" title="Coliving in Vilnius">Vilnius</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/luxembourg" title="Coliving in Luxembourg"><img src="https://coliving2.imgix.net/icons/flags/luxembourg.svg" height="25" width="25" alt="Flag Coliving Luxembourg" class="mr-1 mb-1"> Luxembourg
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/malta" title="Coliving in Malta"><img src="https://coliving2.imgix.net/icons/flags/malta.svg" height="25" width="25" alt="Flag Coliving Malta" class="mr-1 mb-1"> Malta
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/birgu" title="Coliving in Birgu">Birgu</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/pembroke" title="Coliving in Pembroke">Pembroke</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/monaco" title="Coliving in Monaco"><img src="https://coliving2.imgix.net/icons/flags/monaco.svg" height="25" width="25" alt="Flag Coliving Monaco" class="mr-1 mb-1"> Monaco
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/montenegro" title="Coliving in Montenegro"><img src="https://coliving2.imgix.net/icons/flags/montenegro.svg" height="25" width="25" alt="Flag Coliving Montenegro" class="mr-1 mb-1"> Montenegro
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/durasevici" title="Coliving in Đuraševići">Đuraševići</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/netherlands" title="Coliving in Netherlands"><img src="https://coliving2.imgix.net/icons/flags/netherlands.svg" height="25" width="25" alt="Flag Coliving Netherlands" class="mr-1 mb-1"> Netherlands
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/amsterdam" title="Coliving in Amsterdam">Amsterdam</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/enschede" title="Coliving in Enschede">Enschede</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/north-brabant" title="Coliving in North Brabant">North Brabant</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/rotterdam" title="Coliving in Rotterdam">Rotterdam</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/norway" title="Coliving in Norway"><img src="https://coliving2.imgix.net/icons/flags/norway.svg" height="25" width="25" alt="Flag Coliving Norway" class="mr-1 mb-1"> Norway
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/bergen" title="Coliving in Bergen">Bergen</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/drammen" title="Coliving in Drammen">Drammen</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/kristiansand" title="Coliving in Kristiansand">Kristiansand</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/nordland" title="Coliving in Nordland">Nordland</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/oslo" title="Coliving in Oslo">Oslo</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/stavanger" title="Coliving in Stavanger">Stavanger</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/tromso" title="Coliving in Tromsø">Tromsø</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/trondheim" title="Coliving in Trondheim">Trondheim</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/poland" title="Coliving in Poland"><img src="https://coliving2.imgix.net/icons/flags/poland.svg" height="25" width="25" alt="Flag Coliving Poland" class="mr-1 mb-1"> Poland
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/gdansk" title="Coliving in Gdańsk">Gdańsk</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/krakow" title="Coliving in Krakow">Krakow</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/warsaw" title="Coliving in Warsaw">Warsaw</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/wroclaw" title="Coliving in Wrocław">Wrocław</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/portugal" title="Coliving in Portugal"><img src="https://coliving2.imgix.net/icons/flags/portugal.svg" height="25" width="25" alt="Flag Coliving Portugal" class="mr-1 mb-1"> Portugal
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/aljezur" title="Coliving in Aljezur">Aljezur</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/amora" title="Coliving in Amora">Amora</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/azores" title="Coliving in Azores">Azores</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/braga" title="Coliving in Braga">Braga</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/budens" title="Coliving in Budens">Budens</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/carcavelos" title="Coliving in Carcavelos">Carcavelos</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/carvoeiro" title="Coliving in Carvoeiro">Carvoeiro</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/cascais" title="Coliving in Cascais">Cascais</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/ericeira" title="Coliving in Ericeira">Ericeira</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/lisbon" title="Coliving in Lisbon">Lisbon</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/madeira" title="Coliving in Madeira">Madeira</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/ponta-delgada" title="Coliving in Ponta Delgada">Ponta Delgada</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/porto" title="Coliving in Porto">Porto</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/romania" title="Coliving in Romania"><img src="https://coliving2.imgix.net/icons/flags/romania.svg" height="25" width="25" alt="Flag Coliving Romania" class="mr-1 mb-1"> Romania
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/bucharest" title="Coliving in Bucharest">Bucharest</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/cluj-napoca" title="Coliving in Cluj-Napoca">Cluj-Napoca</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/russia" title="Coliving in Russia"><img src="https://coliving2.imgix.net/icons/flags/russia.svg" height="25" width="25" alt="Flag Coliving Russia" class="mr-1 mb-1"> Russia
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/moscow" title="Coliving in Moscow">Moscow</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/saint-petersburg" title="Coliving in Saint Petersburg">Saint Petersburg</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/serbia" title="Coliving in Serbia"><img src="https://coliving2.imgix.net/icons/flags/serbia.svg" height="25" width="25" alt="Flag Coliving Serbia" class="mr-1 mb-1"> Serbia
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/belgrade" title="Coliving in Belgrade">Belgrade</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/mokrin" title="Coliving in Mokrin">Mokrin</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/spain" title="Coliving in Spain"><img src="https://coliving2.imgix.net/icons/flags/spain.svg" height="25" width="25" alt="Flag Coliving Spain" class="mr-1 mb-1"> Spain
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/albatera" title="Coliving in Albatera">Albatera</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/alicante" title="Coliving in Alicante">Alicante</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/anceu" title="Coliving in Anceu">Anceu</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/balearic-islands" title="Coliving in Balearic Islands">Balearic Islands</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/barcelona" title="Coliving in Barcelona">Barcelona</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/bilbao" title="Coliving in Bilbao">Bilbao</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/cadiz" title="Coliving in Cádiz">Cádiz</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/calafell" title="Coliving in Calafell">Calafell</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/catalonia" title="Coliving in Catalonia">Catalonia</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/cordoba" title="Coliving in Cordoba">Cordoba</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/corralejo" title="Coliving in Corralejo">Corralejo</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/culla" title="Coliving in Culla">Culla</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/ibiza" title="Coliving in Ibiza">Ibiza</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/lajares" title="Coliving in Lajares">Lajares</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/las-palmas-de-gran-canaria" title="Coliving in Las Palmas">Las Palmas</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/los-llanos" title="Coliving in Los Llanos">Los Llanos</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/madrid" title="Coliving in Madrid">Madrid</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/malaga" title="Coliving in Malaga">Malaga</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/mallorca" title="Coliving in Mallorca">Mallorca</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/marbella" title="Coliving in Marbella">Marbella</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/murcia" title="Coliving in Murcia">Murcia</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/palma" title="Coliving in Palma">Palma</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/santa-cruz-de-tenerife" title="Coliving in Santa Cruz De Tenerife">Santa Cruz de Tenerife</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/senderiz" title="Coliving in Senderiz">Senderiz</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/seville" title="Coliving in Seville">Seville</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/tarifa" title="Coliving in Tarifa">Tarifa</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/valencia" title="Coliving in Valencia">Valencia</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/valldemossa" title="Coliving in Valldemossa">Valldemossa</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/xabia" title="Coliving in Xàbia">Xàbia</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/zaragoza" title="Coliving in Zaragoza">Zaragoza</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/sweden" title="Coliving in Sweden"><img src="https://coliving2.imgix.net/icons/flags/sweden.svg" height="25" width="25" alt="Flag Coliving Sweden" class="mr-1 mb-1"> Sweden
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/gothenburg" title="Coliving in Gothenburg">Gothenburg</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/malmo" title="Coliving in Malmö">Malmö</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/stockholm" title="Coliving in Stockholm">Stockholm</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/tingsryd" title="Coliving in Tingsryd">Tingsryd</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/uppsala" title="Coliving in Uppsala">Uppsala</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/switzerland" title="Coliving in Switzerland"><img src="https://coliving2.imgix.net/icons/flags/switzerland.svg" height="25" width="25" alt="Flag Coliving Switzerland" class="mr-1 mb-1"> Switzerland
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/basel" title="Coliving in Basel">Basel</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/bern" title="Coliving in Bern">Bern</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/geneva" title="Coliving in Geneva">Geneva</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/grimentz" title="Coliving in Grimentz">Grimentz</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/interlaken" title="Coliving in Interlaken">Interlaken</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/lausanne" title="Coliving in Lausanne">Lausanne</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/riddes" title="Coliving in Riddes">Riddes</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/st-imier" title="Coliving in St-Imier">St-Imier</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/zurich" title="Coliving in Zürich">Zürich</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/ukraine" title="Coliving in Ukraine"><img src="https://coliving2.imgix.net/icons/flags/ukraine.svg" height="25" width="25" alt="Flag Coliving Ukraine" class="mr-1 mb-1"> Ukraine
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/irpin" title="Coliving in Irpin'">Irpin'</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/kiev" title="Coliving in Kiev">Kiev</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/lviv" title="Coliving in Lviv">Lviv</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/poltava" title="Coliving in Poltava">Poltava</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/tukhlya" title="Coliving in Tukhlya">Tukhlya</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/united-kingdom" title="Coliving in United Kingdom"><img src="https://coliving2.imgix.net/icons/flags/united-kingdom.svg" height="25" width="25" alt="Flag Coliving United Kingdom" class="mr-1 mb-1"> United Kingdom
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/bath" title="Coliving in Bath">Bath</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/belfast" title="Coliving in Belfast">Belfast</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/birmingham" title="Coliving in Birmingham">Birmingham</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/edinburgh" title="Coliving in Edinburgh">Edinburgh</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/glasgow" title="Coliving in Glasgow">Glasgow</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/greater-manchester" title="Coliving in Greater Manchester">Greater Manchester</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/leeds" title="Coliving in Leeds">Leeds</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/lincolnshire" title="Coliving in Lincolnshire">Lincolnshire</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/liverpool" title="Coliving in Liverpool">Liverpool</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/london" title="Coliving in London">London</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/manchester" title="Coliving in Manchester">Manchester</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/newcastle" title="Coliving in Newcastle">Newcastle</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/nottingham" title="Coliving in Nottingham">Nottingham</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/oxford" title="Coliving in Oxford">Oxford</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/sheffield" title="Coliving in Sheffield">Sheffield</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/tyne-and-wear" title="Coliving in Tyne And Wear">Tyne and Wear</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/west-midlands" title="Coliving in West Midlands">West Midlands</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/york" title="Coliving in York">York</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <h3>Latin America</h3>
+            </div>
+            <div class="row mb-4">
+                <div class="col-md-2 d-none d-md-block"></div>
+                <div class="col-md-10">
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/argentina" title="Coliving in Argentina"><img src="https://coliving2.imgix.net/icons/flags/argentina.svg" height="25" width="25" alt="Flag Coliving Argentina" class="mr-1 mb-1"> Argentina
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/aaj" title="Coliving in Aaj">AAJ</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/buenos-aires" title="Coliving in Buenos Aires">Buenos Aires</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/comuna-3" title="Coliving in Comuna 3">Comuna 3</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/corrientes" title="Coliving in Corrientes">Corrientes</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/la-lonja" title="Coliving in La Lonja">La Lonja</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/la-plata" title="Coliving in La Plata">La Plata</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/mar-del-plata" title="Coliving in Mar Del Plata">Mar del Plata</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/rosario" title="Coliving in Rosario">Rosario</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/salta" title="Coliving in Salta">Salta</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/santa-fe-de-la-vera-cruz" title="Coliving in Santa Fe De La Vera Cruz">Santa Fe de la Vera Cruz</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/vicente-lopez" title="Coliving in Vicente López">Vicente López</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/bolivia" title="Coliving in Bolivia"><img src="https://coliving2.imgix.net/icons/flags/bolivia.svg" height="25" width="25" alt="Flag Coliving Bolivia" class="mr-1 mb-1"> Bolivia
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/brazil" title="Coliving in Brazil"><img src="https://coliving2.imgix.net/icons/flags/brazil.svg" height="25" width="25" alt="Flag Coliving Brazil" class="mr-1 mb-1"> Brazil
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/belo-horizonte" title="Coliving in Belo Horizonte">Belo Horizonte</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/brasilia" title="Coliving in Brasilia">Brasilia</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/curitiba" title="Coliving in Curitiba">Curitiba</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/fortaleza" title="Coliving in Fortaleza">Fortaleza</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/manaus" title="Coliving in Manaus">Manaus</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/porto-alegre" title="Coliving in Porto Alegre">Porto Alegre</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/recife" title="Coliving in Recife">Recife</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/rio-de-janeiro" title="Coliving in Rio De Janeiro">Rio de Janeiro</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/salvador" title="Coliving in Salvador">Salvador</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/sao-paulo" title="Coliving in São Paulo">São Paulo</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/chile" title="Coliving in Chile"><img src="https://coliving2.imgix.net/icons/flags/chile.svg" height="25" width="25" alt="Flag Coliving Chile" class="mr-1 mb-1"> Chile
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/puente-alto" title="Coliving in Puente Alto">Puente Alto</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/santiago" title="Coliving in Santiago">Santiago</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/colombia" title="Coliving in Colombia"><img src="https://coliving2.imgix.net/icons/flags/colombia.svg" height="25" width="25" alt="Flag Coliving Colombia" class="mr-1 mb-1"> Colombia
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/antioquia" title="Coliving in Antioquia">Antioquia</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/bogota" title="Coliving in Bogota">Bogota</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/cali" title="Coliving in Cali">Cali</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/cartagena" title="Coliving in Cartagena">Cartagena</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/envigado" title="Coliving in Envigado">Envigado</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/macanal" title="Coliving in Macanal">Macanal</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/medellin" title="Coliving in Medellin">Medellin</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/costa-rica" title="Coliving in Costa Rica"><img src="https://coliving2.imgix.net/icons/flags/costa-rica.svg" height="25" width="25" alt="Flag Coliving Costa Rica" class="mr-1 mb-1"> Costa Rica
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/puerto-viejo-de-talamanca" title="Coliving in Puerto Viejo De Talamanca">Puerto Viejo de Talamanca</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/puntarenas-province" title="Coliving in Puntarenas Province">Puntarenas Province</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/cr-san-jose" title="Coliving in San José">San José</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/san-pedro" title="Coliving in San Pedro">San Pedro</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/ecuador" title="Coliving in Ecuador"><img src="https://coliving2.imgix.net/icons/flags/ecuador.svg" height="25" width="25" alt="Flag Coliving Ecuador" class="mr-1 mb-1"> Ecuador
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/manta" title="Coliving in Manta">Manta</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/quito" title="Coliving in Quito">Quito</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/mexico" title="Coliving in Mexico"><img src="https://coliving2.imgix.net/icons/flags/mexico.svg" height="25" width="25" alt="Flag Coliving Mexico" class="mr-1 mb-1"> Mexico
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/cabo-san-lucas" title="Coliving in Cabo San Lucas">Cabo San Lucas</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/cancun" title="Coliving in Cancún">Cancún</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/guadalajara" title="Coliving in Guadalajara">Guadalajara</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/mexico-city" title="Coliving in Mexico City">Mexico City</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/monterrey" title="Coliving in Monterrey">Monterrey</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/playa-del-carmen" title="Coliving in Playa Del Carmen">Playa del Carmen</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/quintana-roo" title="Coliving in Quintana Roo">Quintana Roo</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/san-miguel-de-allende" title="Coliving in San Miguel De Allende">San Miguel de Allende</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/tijuana" title="Coliving in Tijuana">Tijuana</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/tulum" title="Coliving in Tulum">Tulum</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/panama" title="Coliving in Panama"><img src="https://coliving2.imgix.net/icons/flags/panama.svg" height="25" width="25" alt="Flag Coliving Panama" class="mr-1 mb-1"> Panama
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/anton" title="Coliving in Antón">Antón</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/chica" title="Coliving in Chicá">Chicá</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/panama-city" title="Coliving in Panama City">Panama City</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/peru" title="Coliving in Peru"><img src="https://coliving2.imgix.net/icons/flags/peru.svg" height="25" width="25" alt="Flag Coliving Peru" class="mr-1 mb-1"> Peru
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/cusco" title="Coliving in Cusco">Cusco</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/lima" title="Coliving in Lima">Lima</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/san-miguel" title="Coliving in San Miguel">San Miguel</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/puerto-rico" title="Coliving in Puerto Rico"><img src="https://coliving2.imgix.net/icons/flags/puerto-rico.svg" height="25" width="25" alt="Flag Coliving Puerto Rico" class="mr-1 mb-1"> Puerto Rico
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/san-juan" title="Coliving in San Juan">San Juan</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/venezuela" title="Coliving in Venezuela"><img src="https://coliving2.imgix.net/icons/flags/venezuela.svg" height="25" width="25" alt="Flag Coliving Venezuela" class="mr-1 mb-1"> Venezuela
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <h3>North America</h3>
+            </div>
+            <div class="row mb-4">
+                <div class="col-md-2 d-none d-md-block"></div>
+                <div class="col-md-10">
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/bahamas" title="Coliving in Bahamas"><img src="https://coliving2.imgix.net/icons/flags/bahamas.svg" height="25" width="25" alt="Flag Coliving Bahamas" class="mr-1 mb-1"> Bahamas
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/barbados" title="Coliving in Barbados"><img src="https://coliving2.imgix.net/icons/flags/barbados.svg" height="25" width="25" alt="Flag Coliving Barbados" class="mr-1 mb-1"> Barbados
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/foster-hall" title="Coliving in Foster Hall">Foster Hall</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/belize" title="Coliving in Belize"><img src="https://coliving2.imgix.net/icons/flags/belize.svg" height="25" width="25" alt="Flag Coliving Belize" class="mr-1 mb-1"> Belize
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/canada" title="Coliving in Canada"><img src="https://coliving2.imgix.net/icons/flags/canada.svg" height="25" width="25" alt="Flag Coliving Canada" class="mr-1 mb-1"> Canada
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/calgary" title="Coliving in Calgary">Calgary</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/edmonton" title="Coliving in Edmonton">Edmonton</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/hamilton" title="Coliving in Hamilton">Hamilton</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/kitchener" title="Coliving in Kitchener">Kitchener</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/montreal" title="Coliving in Montreal">Montreal</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/ottawa" title="Coliving in Ottawa">Ottawa</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/quebec-city" title="Coliving in Quebec City">Quebec City</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/toronto" title="Coliving in Toronto">Toronto</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/vancouver" title="Coliving in Vancouver">Vancouver</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/winnipeg" title="Coliving in Winnipeg">Winnipeg</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/cayman-islands" title="Coliving in Cayman Islands"><img src="https://coliving2.imgix.net/icons/flags/cayman-islands.svg" height="25" width="25" alt="Flag Coliving Cayman Islands" class="mr-1 mb-1"> Cayman Islands
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/cuba" title="Coliving in Cuba"><img src="https://coliving2.imgix.net/icons/flags/cuba.svg" height="25" width="25" alt="Flag Coliving Cuba" class="mr-1 mb-1"> Cuba
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/dominican-republic" title="Coliving in Dominican Republic"><img src="https://coliving2.imgix.net/icons/flags/dominican-republic.svg" height="25" width="25" alt="Flag Coliving Dominican Republic" class="mr-1 mb-1"> Dominican Republic
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/cabarete" title="Coliving in Cabarete">Cabarete</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/el-limon" title="Coliving in El Limón">El Limón</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/jamaica" title="Coliving in Jamaica"><img src="https://coliving2.imgix.net/icons/flags/jamaica.svg" height="25" width="25" alt="Flag Coliving Jamaica" class="mr-1 mb-1"> Jamaica
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/united-states" title="Coliving in United States"><img src="https://coliving2.imgix.net/icons/flags/united-states.svg" height="25" width="25" alt="Flag Coliving United States" class="mr-1 mb-1"> United States
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/albuquerque" title="Coliving in Albuquerque">Albuquerque</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/alhambra" title="Coliving in Alhambra">Alhambra</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/ann-arbor" title="Coliving in Ann Arbor">Ann Arbor</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/aspen" title="Coliving in Aspen">Aspen</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/atlanta" title="Coliving in Atlanta">Atlanta</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/austin" title="Coliving in Austin">Austin</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/baltimore" title="Coliving in Baltimore">Baltimore</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/berkeley" title="Coliving in Berkeley">Berkeley</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/boston" title="Coliving in Boston">Boston</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/boynton-beach" title="Coliving in Boynton Beach">Boynton Beach</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/brooklyn" title="Coliving in Brooklyn">Brooklyn</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/cambridge" title="Coliving in Cambridge">Cambridge</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/charlotte" title="Coliving in Charlotte">Charlotte</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/chattanooga" title="Coliving in Chattanooga">Chattanooga</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/chicago" title="Coliving in Chicago">Chicago</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/cupertino" title="Coliving in Cupertino">Cupertino</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/dallas" title="Coliving in Dallas">Dallas</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/decatur" title="Coliving in Decatur">Decatur</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/denver" title="Coliving in Denver">Denver</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/detroit" title="Coliving in Detroit">Detroit</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/douglasville" title="Coliving in Douglasville">Douglasville</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/east-palo-alto" title="Coliving in East Palo Alto">East Palo Alto</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/el-sobrante" title="Coliving in El Sobrante">El Sobrante</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/elizabeth" title="Coliving in Elizabeth">Elizabeth</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/fort-lauderdale" title="Coliving in Fort Lauderdale">Fort Lauderdale</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/fort-worth" title="Coliving in Fort Worth">Fort Worth</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/hartford" title="Coliving in Hartford">Hartford</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/hawaii" title="Coliving in Hawaii">Hawaii</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/honolulu" title="Coliving in Honolulu">Honolulu</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/houston" title="Coliving in Houston">Houston</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/jacksonville" title="Coliving in Jacksonville">Jacksonville</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/jersey-city" title="Coliving in Jersey City">Jersey City</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/kansas-city" title="Coliving in Kansas City">Kansas City</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/kings-county" title="Coliving in Kings County">Kings County</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/las-vegas" title="Coliving in Las Vegas">Las Vegas</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/long-beach" title="Coliving in Long Beach">Long Beach</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/los-angeles" title="Coliving in Los Angeles">Los Angeles</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/los-angeles-county" title="Coliving in Los Angeles County">Los Angeles County</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/marina-del-rey" title="Coliving in Marina Del Rey">Marina del Rey</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/menlo-park" title="Coliving in Menlo Park">Menlo Park</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/miami" title="Coliving in Miami">Miami</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/minneapolis" title="Coliving in Minneapolis">Minneapolis</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/modesto" title="Coliving in Modesto">Modesto</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/mountain-view" title="Coliving in Mountain View">Mountain View</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/naples" title="Coliving in Naples">Naples</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/new-jersey" title="Coliving in New Jersey">New Jersey</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/new-orleans" title="Coliving in New Orleans">New Orleans</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/new-york-city" title="Coliving in New York City">New York City</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/newnan" title="Coliving in Newnan">Newnan</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/oakland" title="Coliving in Oakland">Oakland</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/orlando" title="Coliving in Orlando">Orlando</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/palo-alto" title="Coliving in Palo Alto">Palo Alto</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/philadelphia" title="Coliving in Philadelphia">Philadelphia</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/phoenix" title="Coliving in Phoenix">Phoenix</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/pineville" title="Coliving in Pineville">Pineville</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/portland" title="Coliving in Portland">Portland</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/queens-county" title="Coliving in Queens County">Queens County</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/redwood-city" title="Coliving in Redwood City">Redwood City</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/richmond" title="Coliving in Richmond">Richmond</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/sacramento" title="Coliving in Sacramento">Sacramento</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/salt-lake-city" title="Coliving in Salt Lake City">Salt Lake City</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/san-antonio" title="Coliving in San Antonio">San Antonio</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/san-diego" title="Coliving in San Diego">San Diego</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/san-francisco" title="Coliving in San Francisco">San Francisco</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/san-jose" title="Coliving in San Jose">San Jose</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/santa-monica" title="Coliving in Santa Monica">Santa Monica</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/sausalito" title="Coliving in Sausalito">Sausalito</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/seattle" title="Coliving in Seattle">Seattle</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/somerville" title="Coliving in Somerville">Somerville</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/sonoma" title="Coliving in Sonoma">Sonoma</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/south-lake-tahoe" title="Coliving in South Lake Tahoe">South Lake Tahoe</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/st-louis" title="Coliving in St. Louis">St. Louis</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/st-petersburg" title="Coliving in St. Petersburg">St. Petersburg</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/state-college" title="Coliving in State College">State College</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/syracuse" title="Coliving in Syracuse">Syracuse</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/valdosta" title="Coliving in Valdosta">Valdosta</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/vermont" title="Coliving in Vermont">Vermont</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/washington" title="Coliving in Washington">Washington</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/washington-dc" title="Coliving in Washington Dc">Washington DC</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <h3>Oceania</h3>
+            </div>
+            <div class="row mb-4">
+                <div class="col-md-2 d-none d-md-block"></div>
+                <div class="col-md-10">
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/australia" title="Coliving in Australia"><img src="https://coliving2.imgix.net/icons/flags/australia.svg" height="25" width="25" alt="Flag Coliving Australia" class="mr-1 mb-1"> Australia
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/brisbane" title="Coliving in Brisbane">Brisbane</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/byron-bay" title="Coliving in Byron Bay">Byron Bay</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/cairns" title="Coliving in Cairns">Cairns</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/canberra" title="Coliving in Canberra">Canberra</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/melbourne" title="Coliving in Melbourne">Melbourne</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/perth" title="Coliving in Perth">Perth</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/preston" title="Coliving in Preston">Preston</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/stanmore" title="Coliving in Stanmore">Stanmore</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/sydney" title="Coliving in Sydney">Sydney</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/fiji" title="Coliving in Fiji"><img src="https://coliving2.imgix.net/icons/flags/fiji.svg" height="25" width="25" alt="Flag Coliving Fiji" class="mr-1 mb-1"> Fiji
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h5 class="col-6 col-lg-4 list-contries"><a href="/new-zealand" title="Coliving in New Zealand"><img src="https://coliving2.imgix.net/icons/flags/new-zealand.svg" height="25" width="25" alt="Flag Coliving New Zealand" class="mr-1 mb-1"> New Zealand
+                            </a></h5>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 d-none d-md-block"></div>
+                        <div class="col-md-9">
+                            <div class="row">
+                                <h5 class="col-6 col-lg-4"><a href="/auckland" title="Coliving in Auckland">Auckland</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/christchurch" title="Coliving in Christchurch">Christchurch</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/queenstown" title="Coliving in Queenstown">Queenstown</a></h5>
+                                <h5 class="col-6 col-lg-4"><a href="/wellington" title="Coliving in Wellington">Wellington</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
